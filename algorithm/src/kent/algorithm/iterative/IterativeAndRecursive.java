@@ -2,6 +2,7 @@ package kent.algorithm.iterative;
 
 public class IterativeAndRecursive {
 	
+	// Iterative
 	public int sumIterative(int n) {
 		int result = 0;
 		
@@ -11,6 +12,7 @@ public class IterativeAndRecursive {
 		return result;
 	}
 	
+	// Recursive
 	public int sumRecursive(int n) {
 		
 		if(n == 1) return 1;
