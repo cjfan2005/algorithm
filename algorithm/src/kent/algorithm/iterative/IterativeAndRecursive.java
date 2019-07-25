@@ -1,6 +1,6 @@
 package kent.algorithm.iterative;
 
-public class Algorithm {
+public class IterativeAndRecursive {
 	
 	public int sumIterative(int n) {
 		int result = 0;
