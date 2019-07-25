@@ -1,4 +1,4 @@
-package kent.algorithm.iterative;
+package kent.algorithm.recursive;
 
 public class IterativeAndRecursive {
 	
